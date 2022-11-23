@@ -1,0 +1,10 @@
+C:\Users\m3hdi\source\repos\XmlDataSetToYolo\XmlDataSetToYolo\bin\Release\net6.0\publish\XmlDataSetToYolo.exe
+C:\Users\m3hdi\source\repos\XmlDataSetToYolo\XmlDataSetToYolo\bin\Release\net6.0\publish\XmlDataSetToYolo.dll
+C:\Users\m3hdi\source\repos\XmlDataSetToYolo\XmlDataSetToYolo\bin\Release\net6.0\publish\XmlDataSetToYolo.deps.json
+C:\Users\m3hdi\source\repos\XmlDataSetToYolo\XmlDataSetToYolo\bin\Release\net6.0\publish\XmlDataSetToYolo.runtimeconfig.json
+C:\Users\m3hdi\source\repos\XmlDataSetToYolo\XmlDataSetToYolo\bin\Release\net6.0\publish\XmlDataSetToYolo.pdb
+C:\Users\m3hdi\source\repos\XmlDataSetToYolo\XmlDataSetToYolo\bin\Release\net6.0\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\m3hdi\source\repos\XmlDataSetToYolo\XmlDataSetToYolo\bin\Release\net6.0\publish\System.Drawing.Common.dll
+C:\Users\m3hdi\source\repos\XmlDataSetToYolo\XmlDataSetToYolo\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\m3hdi\source\repos\XmlDataSetToYolo\XmlDataSetToYolo\bin\Release\net6.0\publish\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\m3hdi\source\repos\XmlDataSetToYolo\XmlDataSetToYolo\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\System.Drawing.Common.dll
