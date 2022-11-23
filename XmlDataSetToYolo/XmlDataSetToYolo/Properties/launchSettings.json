@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XmlDataSetToYolo": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Administrator\\Downloads\\plate_image_with_dummy-train\\train\""
+    }
+  }
+}
